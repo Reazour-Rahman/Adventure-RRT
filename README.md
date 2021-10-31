@@ -4,7 +4,7 @@
 ## Live Demo https://adventure-rrt.web.app/
 
 
-***THis is a Travel related website
+*THis is a Travel related website
 ***It offers Turist guide.
 ***It offers World wide Booking facilities
 ***This website has Google Authentication system
