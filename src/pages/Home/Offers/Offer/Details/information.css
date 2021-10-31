@@ -1,0 +1,18 @@
+.form{
+    width: 38%;
+}
+@media only screen and (min-width:700px) and (max-width:1000px) {
+    .form{
+        width: 70%;
+    }
+}
+@media only screen and (min-width:500px) and (max-width:699px) {
+    .form{
+        width: 85%;
+    }
+}
+@media only screen and (min-width:250px) and (max-width:499px) {
+    .form{
+        width: 97%;
+    }
+}

@@ -1,0 +1,19 @@
+
+.custom-width{
+    width: 38%;
+}
+@media only screen and (min-width:700px) and (max-width:1000px) {
+    .custom-width{
+        width: 70%;
+    }
+}
+@media only screen and (min-width:500px) and (max-width:699px) {
+    .custom-width{
+        width: 85%;
+    }
+}
+@media only screen and (min-width:250px) and (max-width:499px) {
+    .custom-width{
+        width: 97%;
+    }
+}

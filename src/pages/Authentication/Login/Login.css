@@ -1,0 +1,12 @@
+.google-image{
+    width: 30px;
+}
+.login-container{
+    height: 70vh;
+    padding-top: 85px;
+}
+@media only screen and (min-width:1200px) {
+    .login-form{
+        width: 30%;
+    }
+}
